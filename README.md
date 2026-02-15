@@ -15,9 +15,6 @@ no explanations, opinions, or commentary.
 Sources scanned weekly:
 
 * Techmeme
-* Hacker News
-* MIT Technology Review
-* IEEE Spectrum
 
 
 
