@@ -18,10 +18,3 @@ Entries are logged every Sunday and contain **only headlines** — no explanatio
 ## Structure
 Entries are organized by year → month → weekly date.
 
-## 2026 Innovation Timeline
-
-| Month | Week 1 | Week 2 | Week 3 | Week 4 |
-|------|------|------|------|------|
-| January | [2026-01-04](2026/01.%20January/2026-01-04.md) | [2026-01-11](2026/01.%20January/2026-01-11.md) | [2026-01-18](2026/01.%20January/2026-01-18.md) | [2026-01-25](2026/01.%20January/2026-01-25.md) |
-| February | [2026-02-01](2026/02.%20February/2026-02-01.md) | [2026-02-08](2026/02.%20February/2026-02-08.md) | [2026-02-15](2026/02.%20February/2026-02-15.md) | [2026-02-22](2026/02.%20February/2026-02-22.md) |
-| March | [2026-03-01](2026/03.%20March/2026-03-01.md) | [2026-03-08](2026/03.%20March/2026-03-08.md) | — | — |
